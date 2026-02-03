@@ -6,3 +6,6 @@ this is demo for sigma class.
 
 # roll no
 B-40
+
+# department
+AIDS
